@@ -1,7 +1,9 @@
 {
     "name": "ArtCom.TimelineUtilities.Editor",
-    "references": [],
-    "optionalUnityReferences": [],
+    "rootNamespace": "",
+    "references": [
+        "Unity.Timeline.Editor"
+    ],
     "includePlatforms": [
         "Editor"
     ],
@@ -10,5 +12,7 @@
     "overrideReferences": false,
     "precompiledReferences": [],
     "autoReferenced": true,
-    "defineConstraints": []
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
 }
