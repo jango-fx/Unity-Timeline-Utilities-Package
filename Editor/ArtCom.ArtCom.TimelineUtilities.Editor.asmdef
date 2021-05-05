@@ -4,9 +4,7 @@
     "references": [
         "Unity.Timeline.Editor"
     ],
-    "includePlatforms": [
-        "Editor"
-    ],
+    "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,
