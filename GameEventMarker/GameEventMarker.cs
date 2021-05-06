@@ -7,8 +7,9 @@ using UnityEngine.Timeline;
 
 namespace ArtCom.TimelineUtilities
 {
+    // TODO: make it work on an signal track
     [Serializable, DisplayName("GameEvent Marker")]
-    public class GameEventMarker : Marker, INotification, INotificationOptionProvider
+    public class GameEventMarker : Marker, INotification, INotificationOptionProvider // , INotificationReceiver
     {
         //[SerializeField] public bool retroactive;
         //[SerializeField] public bool emitOnce;
