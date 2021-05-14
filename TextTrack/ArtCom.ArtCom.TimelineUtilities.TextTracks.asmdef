@@ -1,0 +1,16 @@
+{
+    "name": "ArtCom.ArtCom.TimelineUtilities.TextTracks",
+    "rootNamespace": "",
+    "references": [
+        "Unity.Timeline"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
