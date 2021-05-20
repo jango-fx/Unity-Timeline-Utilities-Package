@@ -1,3 +1,8 @@
+// ----------------------------------------------------------------------------
+// based on  25games' Unity Timeline Scripting - Custom Playables, Tracks and Clips | Unity and C# | Tutorial
+// https://www.youtube.com/watch?v=LSrcQJHDUT4
+// ----------------------------------------------------------------------------
+
 using System;
 using System.Collections;
 using UnityEngine;
