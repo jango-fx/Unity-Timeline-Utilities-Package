@@ -1,11 +1,10 @@
 {
-    "name": "ArtCom.TimelineUtilities",
+    "name": "UnityUtils.TimelineUtilities.GameEventMarker",
     "rootNamespace": "",
     "references": [
-        "Unity.Timeline.Editor"
+        "Unity.Timeline"
     ],
-    "includePlatforms": [
-    ],
+    "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,

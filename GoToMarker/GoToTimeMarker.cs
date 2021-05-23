@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEngine.Playables;
 using UnityEngine.Timeline;
 
-namespace ArtCom.TimelineUtilities
+namespace UnityUtils.TimelineUtilities
 {
     [Serializable, DisplayName("GoToTime Marker")]
     public class GoToTimeMarker : Marker, INotification//, INotificationOptionProvider 

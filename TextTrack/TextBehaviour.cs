@@ -7,7 +7,7 @@ using System;
 using UnityEngine;
 using UnityEngine.Playables;
 
-namespace ArtCom.TimelineUtilities
+namespace UnityUtils.TimelineUtilities
 {
     [Serializable]
     public class TextBehaviour : PlayableBehaviour

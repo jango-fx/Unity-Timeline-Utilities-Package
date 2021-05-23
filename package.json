@@ -1,7 +1,7 @@
 {
-  "name": "de.artcom.timelineutilities",
-  "version": "0.0.3",
-  "displayName": "ART+COM Timeline Utlilities",
+  "name": "io.github.jango-fx.timelineutilities",
+  "version": "0.0.4",
+  "displayName": "Unity Timeline Utlilities",
   "description": "additional tools and code to work with Unity Timeline",
   "unity": "2019.1",
   "dependencies": {
@@ -14,7 +14,6 @@
   ],
   "author": {
     "name": "Felix Groll",
-    "email": "felix.groll@artcom.de",
-    "url": "https://www.artcom.de"
+    "url": "https://github.com/jango-fx"
   }
 }

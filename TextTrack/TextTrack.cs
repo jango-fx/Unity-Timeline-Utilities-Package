@@ -9,11 +9,11 @@ using UnityEngine;
 using UnityEngine.Timeline;
 using UnityEngine.UI;
 
-namespace ArtCom.TimelineUtilities
+namespace UnityUtils.TimelineUtilities
 {
     [TrackColor(1.0f,1.0f,1.0f)]
     [TrackBindingType(typeof(UnityEngine.UI.Text))]
-    [TrackClipType(typeof(ArtCom.TimelineUtilities.TextClip))]
+    [TrackClipType(typeof(UnityUtils.TimelineUtilities.TextClip))]
     public class TextTrack : TrackAsset
     { }
 }

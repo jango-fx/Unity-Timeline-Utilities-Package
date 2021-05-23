@@ -1,11 +1,10 @@
 {
-    "name": "ArtCom.TimelineUtilities.Editor",
+    "name": "UnityUtils.TimelineUtilities",
     "rootNamespace": "",
     "references": [
         "Unity.Timeline.Editor"
     ],
     "includePlatforms": [
-        "Editor"
     ],
     "excludePlatforms": [],
     "allowUnsafeCode": false,

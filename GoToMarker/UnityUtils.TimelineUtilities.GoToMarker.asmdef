@@ -1,5 +1,5 @@
 {
-    "name": "ArtCom.ArtCom.TimelineUtilities.GameEventMarker",
+    "name": "UnityUtils.TimelineUtilities.GoToMarker",
     "rootNamespace": "",
     "references": [
         "Unity.Timeline"

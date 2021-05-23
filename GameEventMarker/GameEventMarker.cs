@@ -3,9 +3,9 @@ using System.ComponentModel;
 using UnityEngine;
 using UnityEngine.Playables;
 using UnityEngine.Timeline;
-//using ArtCom.ScriptableObjects.Events;
+//using UnityUtils.ScriptableObjects.Events;
 
-namespace ArtCom.TimelineUtilities
+namespace UnityUtils.TimelineUtilities
 {
     // TODO: make it work on an signal track
     [Serializable, DisplayName("GameEvent Marker")]

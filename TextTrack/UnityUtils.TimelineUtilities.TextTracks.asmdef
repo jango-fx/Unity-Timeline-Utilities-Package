@@ -1,5 +1,5 @@
 {
-    "name": "ArtCom.ArtCom.TimelineUtilities.GoToMarker",
+    "name": "UnityUtils.TimelineUtilities.TextTracks",
     "rootNamespace": "",
     "references": [
         "Unity.Timeline"

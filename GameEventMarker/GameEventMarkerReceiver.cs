@@ -5,9 +5,9 @@ using System.ComponentModel;
 using UnityEngine;
 using UnityEngine.Playables;
 using UnityEngine.Timeline;
-//using ArtCom.ScriptableObjects.Events;
+//using UnityUtils.ScriptableObjects.Events;
 
-namespace ArtCom.TimelineUtilities
+namespace UnityUtils.TimelineUtilities
 {
     
     //[ExecuteInEditMode]
