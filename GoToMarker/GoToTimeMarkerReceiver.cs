@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEngine.Playables;
 using UnityEngine.Timeline;
 
-namespace UnityUtils.TimelineUtilities
+namespace ƒx.UnityUtils.Timeline
 {
     public class GoToTimeMarkerReceiver : MonoBehaviour, INotificationReceiver
     {

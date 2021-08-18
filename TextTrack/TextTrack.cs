@@ -8,12 +8,13 @@ using System.Collections;
 using UnityEngine;
 using UnityEngine.Timeline;
 using UnityEngine.UI;
+using ƒx.UnityUtils.Timeline;
 
-namespace UnityUtils.TimelineUtilities
+namespace ƒx.UnityUtils.Timeline
 {
     [TrackColor(1.0f,1.0f,1.0f)]
     [TrackBindingType(typeof(UnityEngine.UI.Text))]
-    [TrackClipType(typeof(UnityUtils.TimelineUtilities.TextClip))]
+    [TrackClipType(typeof(TextClip))]
     public class TextTrack : TrackAsset
     { }
 }

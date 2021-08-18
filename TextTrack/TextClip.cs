@@ -9,7 +9,7 @@ using UnityEngine;
 using UnityEngine.Playables;
 using UnityEngine.Timeline;
 
-namespace UnityUtils.TimelineUtilities
+namespace ƒx.UnityUtils.Timeline
 {
     [Serializable]
     public class TextClip : PlayableAsset, ITimelineClipAsset

@@ -1,11 +1,10 @@
 {
-    "name": "UnityUtils.TimelineUtilities",
-    "rootNamespace": "",
+    "name": "ƒx.UnityUtils.Timeline",
     "references": [
+        "Unity.Timeline",
         "Unity.Timeline.Editor"
     ],
-    "includePlatforms": [
-    ],
+    "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,

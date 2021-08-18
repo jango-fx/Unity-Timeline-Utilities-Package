@@ -1,7 +1,7 @@
 {
-  "name": "io.github.jango-fx.timelineutilities",
-  "version": "0.0.4",
-  "displayName": "Unity Timeline Utlilities",
+  "name": "io.github.jango-fx.unityutils.timeline",
+  "version": "2.0.0",
+  "displayName": "Unity Utilities Timeline Package",
   "description": "additional tools and code to work with Unity Timeline",
   "unity": "2019.1",
   "dependencies": {
@@ -14,6 +14,6 @@
   ],
   "author": {
     "name": "Felix Groll",
-    "url": "https://github.com/jango-fx"
+    "url": "https://jango-fx.github.io"
   }
 }

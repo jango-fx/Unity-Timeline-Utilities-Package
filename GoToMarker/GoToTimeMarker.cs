@@ -4,9 +4,9 @@ using UnityEngine;
 using UnityEngine.Playables;
 using UnityEngine.Timeline;
 
-namespace UnityUtils.TimelineUtilities
+namespace ƒx.UnityUtils.Timeline
 {
-    [Serializable, DisplayName("GoToTime Marker")]
+    [Serializable, DisplayName("Custom Markers/GoToTime Marker")]
     public class GoToTimeMarker : Marker, INotification//, INotificationOptionProvider 
     {
         /* public bool retroactive; */

@@ -7,7 +7,7 @@ using UnityEngine.Playables;
 using UnityEngine.Timeline;
 //using UnityUtils.ScriptableObjects.Events;
 
-namespace UnityUtils.TimelineUtilities
+namespace ƒx.UnityUtils.Timeline
 {
     
     //[ExecuteInEditMode]
